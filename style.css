@@ -1,0 +1,120 @@
+@charset "UTF-8";
+
+.title h1{
+  font-weight: bold;
+  font-size: 25px;
+  padding: 30px 10px 10px 10px;
+}
+.subtitle h2{
+  font-weight: bold;
+  font-size: 25px;
+  padding: 20px 10px 20px 10px;
+}
+
+.personal h3{
+  font-weight: bold;
+  font-size: 18px;
+  padding: 10px 10px 20px 10px;
+}
+
+.lastname p{
+  padding-left: 10px;
+  display: inline-block;
+}
+.firstname p{
+  padding-left: 10px;
+  padding-top: 5px;
+  display: inline-block;
+}
+.birthday p{
+  padding-left: 10px;
+  padding-top: 5px;
+  display: inline-block;
+}
+.sex{
+  padding: 20px 0 10px 10px;
+}
+.sex p{
+  padding-bottom: 20px;
+}
+
+.jobs{
+  padding: 0 0 10px 10px;
+}
+.jobs p{
+  padding-bottom: 10px;
+}
+
+.account h3{
+  font-weight: bold;
+  font-size: 18px;
+  padding: 10px 10px 20px 10px;
+}
+.account-name p{
+  display: inline-block;
+  padding-left: 10px;
+}
+
+.mail-address p{
+  display: inline-block;
+  padding-top: 5px;
+  padding-left: 10px;
+}
+
+.password p{
+  display: inline-block;
+  padding-top: 5px;
+  padding-left: 10px;
+}
+
+.checkpass p{
+  display: inline-block;
+  padding-top: 5px;
+  padding-left: 10px;
+}
+
+.addresses h3{
+  font-weight: bold;
+  font-size: 18px;
+  padding: 30px 10px 20px 10px;
+}
+.address p{
+  display: inline-block;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.number p{
+  display: inline-block;
+  padding-top: 5px;
+  padding-left: 10px;
+}
+
+.subscription h3{
+  font-weight: bold;
+  padding: 20px 0 20px 10px;
+}
+.mail-magazine{
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+.coupon{
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+.submit{
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.caution{
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.link{
+  color: darkviolet;
+  border-bottom: 1px solid darkviolet;
+}
+.link:active{
+  color:red;
+  border-bottom: 1px solid red;
+}

@@ -29,7 +29,12 @@
 .birthday p{
   padding-left: 10px;
   padding-top: 5px;
-  display: inline-block;
+  display: block;
+}
+.birthday select{
+  margin-left: 10px;
+  margin-top: 5px;
+  display: block;
 }
 .sex{
   padding: 20px 0 10px 10px;
